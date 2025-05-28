@@ -72,7 +72,7 @@
 
     <section id="home" class="section bg-gradient-to-br from-pink-900 to-black pt-24">
         <div class="container mx-auto px-4">
-      <img src="Homepage.jpeg" alt="Creative World Image"  class="w-48 h-48 rounded-full object-cover mx-auto mb-6">
+      
             <h1 class="text-5xl md:text-7xl font-extrabold mb-6 animate-fade-in-up">Exploring My Creative World</h1> 
             <p class="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto animate-fade-in-up delay-200">
                 The Art of the Image: Design, Editing, and Photography
